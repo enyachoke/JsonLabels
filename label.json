@@ -1,0 +1,63 @@
+{
+  "pages": [{
+    "height": 1.25,
+    "width": 2.25,
+    "elements": [{
+      "type": "barcode",
+      "text": "First Barcode",
+      "height": 60,
+      "width": 160,
+      "x": 0,
+      "y": 10
+    }, {
+      "type": "text",
+      "width": 150,
+      "height": 60,
+      "text": "Hello Barcode Long and along and long and long",
+      "fontType": "Times-Roman",
+      "fontSize": 10,
+      "x": 5,
+      "y": 76
+    }, {
+      "type": "text",
+      "width": 150,
+      "text": "Hello Barcode Long",
+      "fontType": "Times-Roman",
+      "fontSize": 10,
+      "height": 60,
+      "x": 5,
+      "y": 60
+    }]
+  }, {
+    "height": 1.25,
+    "width": 2.25,
+    "elements": [{
+      "type": "barcode",
+      "text": "Second Barcode",
+      "fontType": "Times-Roman",
+      "fontSize": 10,
+      "height": 60,
+      "width": 150,
+      "x": 0,
+      "y": 10
+    }, {
+      "type": "text",
+      "width": 150,
+      "text": "Second Label",
+      "fontType": "Times-Roman",
+      "height": 60,
+      "fontSize": 10,
+      "x": 5,
+      "y": 76
+    }, {
+      "type": "text",
+      "width": 150,
+      "text": "Second Label",
+      "height": 60,
+      "fontType": "Times-Roman",
+      "fontSize": 10,
+      "x": 5,
+      "y": 60
+    }]
+  }]
+}
